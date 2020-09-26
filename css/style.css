@@ -60,6 +60,7 @@ table{
     margin-right: auto;
     margin-left: auto;
     border-radius: 25px;
+    padding: 10px;
 }
 
 .colhead{
@@ -78,8 +79,8 @@ table{
 
 }
 
-td{
-
+table th, table , table tr{
+  padding: 10px;
 }
 
 tr{
